@@ -1,8 +1,9 @@
 ## Team: Delectable-Woylie
-## contributors: [Oleg Rjumin]() and [Devonta Harris](http://www.github.com/DevonAero)
+## contributors: [Oleg Rjumin](https://github.com/olegrjumin) and [Devonta Harris](http://www.github.com/DevonAero)
 
 # Team Project Assignment 1 - Encyclopedia Profiles App
-* [Live link]()
+
+* [Live link](https://olegrjumin.github.io/md-encyclopedia-ui/)
 * [write up Oleg](writeups/writeup-oleg.md)
 * [write up Devonta](writeups/writeup-devonta.md)
 
@@ -17,7 +18,7 @@
 ### Preprocessors
 
 * [Pug (Jade)](http://jade-lang.com/)
-*  [Stylus](http://stylus-lang.com/)
+* [Stylus](http://stylus-lang.com/)
 
 
 ### Libraries
