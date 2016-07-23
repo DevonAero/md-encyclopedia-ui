@@ -7,7 +7,7 @@
 
 ### The skills section:
 
-![skills](writeups/skills.PNG)
+![skills](img/skills.png)
 
 > This section was a bit tricky because of the graphs. In the beginning, I used a jQuery plugin to accomplish the task, it worked, but I couldn't configure it the way the design looked so I had to scrap it and build it from scratch.
 
@@ -15,7 +15,7 @@
 
 ### Social media:
 
-![social-media](writeups/socialmedia.PNG)
+![social-media](img/socialmedia.png)
 
 
 > The social media section also came with it's own challenges and cross browser inconsistencies. In particular, when coding the custom scrollbars. I found out that it was pretty straight forward to do in Webkit browsers (Chrome and Safari) with the help of these properties (There's more, but those weren't needed for this project.):
